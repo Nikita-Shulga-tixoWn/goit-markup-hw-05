@@ -685,6 +685,10 @@ section {
     margin-bottom: 8px;
 }
 
+.modal-ucom {
+    margin-bottom: 16px;
+}
+
 .modal-label {
     font-size: 12px;
     line-height: 1.17;
@@ -754,7 +758,6 @@ section {
     letter-spacing: 0.04em;
     color: #8e8f99;
     gap: 8px;
-    margin-top: 16px;
     margin-bottom: 24px;
 }
 
